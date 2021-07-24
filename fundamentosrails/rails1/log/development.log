@@ -1,0 +1,75 @@
+Started GET "/" for 172.168.1.1 at 2021-07-15 16:40:12 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (16.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 23.7ms | Allocations: 595)
+Completed 200 OK in 161ms (Views: 68.9ms | ActiveRecord: 0.0ms | Allocations: 4728)
+
+
+Started GET "/" for 172.168.1.1 at 2021-07-15 16:56:52 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.8ms | Allocations: 490)
+Completed 200 OK in 60ms (Views: 26.2ms | ActiveRecord: 0.0ms | Allocations: 3606)
+
+
+Started GET "/" for 172.168.1.1 at 2021-07-17 16:08:51 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.9ms | Allocations: 490)
+Completed 200 OK in 60ms (Views: 24.9ms | ActiveRecord: 0.0ms | Allocations: 3606)
+
+
+Started GET "/" for 172.168.1.1 at 2021-07-17 16:08:51 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.1ms | Allocations: 261)
+Completed 200 OK in 18ms (Views: 13.1ms | ActiveRecord: 0.0ms | Allocations: 1307)
+
+
+Started GET "/asd" for 172.168.1.1 at 2021-07-17 16:08:59 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/asd"):
+  
+Started GET "/" for 172.168.1.1 at 2021-07-19 13:18:09 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (4.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 11.1ms | Allocations: 490)
+Completed 200 OK in 52ms (Views: 24.4ms | ActiveRecord: 0.0ms | Allocations: 3606)
+
+
+Started GET "/" for 172.168.1.1 at 2021-07-19 13:18:09 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.5ms | Allocations: 280)
+Completed 200 OK in 19ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 1258)
+
+
+Started GET "/" for 172.168.1.1 at 2021-07-19 13:19:24 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.7ms | Allocations: 490)
+Completed 200 OK in 49ms (Views: 20.9ms | ActiveRecord: 0.0ms | Allocations: 3606)
+
+
+Started GET "/" for 172.168.1.1 at 2021-07-20 13:07:08 +0000
+Cannot render console from 172.168.1.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/vagrant/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4/lib/rails/templates/rails/welcome/index.html.erb (Duration: 21.4ms | Allocations: 490)
+Completed 200 OK in 83ms (Views: 37.1ms | ActiveRecord: 0.0ms | Allocations: 3606)
+
+
